@@ -1,4 +1,4 @@
-module github.com/htc/k8s-controller-custom-resource
+module github.com/HtcOrange/k8s-controller-custom-resource
 
 go 1.16
 
